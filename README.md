@@ -1,8 +1,7 @@
 # Neural network in Javascript
 
 
-
-
+![a](https://github.com/VirtualSoda369/neural_network_js/blob/main/post/foto_portada_final.jpg?raw=true "alt")
 
 ----
 
@@ -18,4 +17,10 @@
 
 ----
 
+![a](https://github.com/VirtualSoda369/neural_network_js/blob/main/post/foto_1_post.jpg?raw=true "a")
+----
+![b](https://github.com/VirtualSoda369/neural_network_js/blob/main/post/foto_2_post.jpg?raw=true "b")
+----
+![b](https://github.com/VirtualSoda369/neural_network_js/blob/main/post/foto_3_post.jpg?raw=true "c")
+----
 
